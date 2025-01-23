@@ -92,4 +92,4 @@ Run the following command to install the required Python packages:
 
 3.  feature_names.pkl: List of feature names used during training.
 
-4. synthetic_manufacturing_data.csv: Example dataset for testing.
+4. test_manufacturing_data.csv: Example dataset for testing.
